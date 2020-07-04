@@ -1,14 +1,18 @@
 ### Hi there 👋
 
+Fighting for the master's degree at WHU
+
+- 🌱 Golang/Python
+
 <!--
 **vvisionnn/vvisionnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Fighting for the master's degree at WHU
+
 
 <!--
 - 🔭 I’m currently working on ...
 
-- 🌱 Golang/Python
+
 
 <!--
 - 👯 I’m looking to collaborate on ...
