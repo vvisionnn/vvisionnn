@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fighting for the master's degree at WHU
+I'm a student now, and fighting for the master's degree at WHU
 
 - 🔭 Golang/Python/Deeplearning
 - 🌱 Currently learning Swift/SwiftUI
