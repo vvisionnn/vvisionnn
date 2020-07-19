@@ -3,9 +3,9 @@
 A student now, fighting for the master's degree
 
 #### **LeetCode Profile**
-![about](https://lc.coding.gs/v1cn/vvisionnn.svg??logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
-![ranking](https://lc.coding.gs/v1cn/ranking/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
-![solved](https://lc.coding.gs/v1cn/solved/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
+[![about](https://lc.coding.gs/v1cn/vvisionnn.svg??logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)](https://leetcode-cn.com/u/vvisionnn/)
+[![ranking](https://lc.coding.gs/v1cn/ranking/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)](https://leetcode-cn.com/u/vvisionnn/)
+[![solved](https://lc.coding.gs/v1cn/solved/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)](https://leetcode-cn.com/u/vvisionnn/)
 
 
 <!--
