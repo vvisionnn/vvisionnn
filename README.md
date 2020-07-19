@@ -1,9 +1,12 @@
-### Hi there 👋
+### **About me 👋**
 
-I'm a student now, and fighting for the master's degree at WHU
+A student now, fighting for the master's degree
 
-- 🔭 Golang/Python/Deeplearning
-- 🌱 Currently learning Swift/SwiftUI
+#### **LeetCode Profile**
+![about](https://lc.coding.gs/v1cn/vvisionnn.svg??logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
+![ranking](https://lc.coding.gs/v1cn/ranking/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
+![solved](https://lc.coding.gs/v1cn/solved/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)
+
 
 <!--
 **vvisionnn/vvisionnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
