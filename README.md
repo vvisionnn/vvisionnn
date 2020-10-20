@@ -1,8 +1,9 @@
 ### **About me 👋**
 
 A student now, fighting for the master's degree
+<!--
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+-->
 ### **LeetCode profile**
 [![ranking](https://lc.coding.gs/v1cn/ranking/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)](https://leetcode-cn.com/u/vvisionnn/)
 [![solved](https://lc.coding.gs/v1cn/solved/vvisionnn.svg?logo=leetcode&color=2C4274&logoColor=ffffff&labelColor=1d212a)](https://leetcode-cn.com/u/vvisionnn/)
