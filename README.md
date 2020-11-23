@@ -1,6 +1,6 @@
 ### **About me 👋**
 
-A student now, fighting for the master's degree
+A student
 <!--
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 -->
