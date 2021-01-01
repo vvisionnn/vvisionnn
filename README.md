@@ -16,7 +16,7 @@ A student
 <h3>Things I code with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-49aad3?style=flat-square&logo=go&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/-Python-305275?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-305275?style=flat-square&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-419be6?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
