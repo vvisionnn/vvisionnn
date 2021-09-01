@@ -1,7 +1,3 @@
-### **About me 👋**
-
-A student
-
 <h3>Things I code with</h3>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-49aad3?style=flat-square&logo=go&logoColor=white"/>
